@@ -1,0 +1,182 @@
+[
+ {
+   "Type": "Daire",
+   "Title": "YALÇINKAYA EMLAK KIRALIYOR",
+   "Area": 90,
+   "NumberOfRooms": "2+1",
+   "Price": "950 TL",
+   "ReleaseDate": "14 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "OTOGARDA 2+1 KIRALIK DAIRE",
+   "Area": 85,
+   "NumberOfRooms": "2+1",
+   "Price": "950 TL",
+   "ReleaseDate": "14 Kasım 2020",
+   "District": "Selçuklu\nMerkez"
+ },
+ {
+   "Type": "Daire",
+   "Title": "ZAFER MERKEZDE BAYAN APART ODA FATURALAR DAHİL",
+   "Area": 200,
+   "NumberOfRooms": "4+1",
+   "Price": "450 TL",
+   "ReleaseDate": "10 Kasım 2020",
+   "District": "Selçuklu\nZafer"
+ },
+ {
+   "Type": "Daire",
+   "Title": "Mamuriye mahallesinde full eşyalı kiralık daire",
+   "Area": 110,
+   "NumberOfRooms": "2+1",
+   "Price": "1.300 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Meram\nZafer"
+ },
+ {
+   "Type": "Daire",
+   "Title": "CUMHURİYET MAHALLESİNDE TRAMVAY A YAKIN TEMİZ DAİRE",
+   "Area": 130,
+   "NumberOfRooms": "3+1",
+   "Price": "1.000 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nCumhuriyet"
+ },
+ {
+   "Type": "Daire",
+   "Title": "BOSNA HERSEK OVAL ÇARŞI CİVARI KİRALIK ARAKAT 2+1 DAİRE",
+   "Area": 130,
+   "NumberOfRooms": "2+1",
+   "Price": "900 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "KENT PLAZAYA YÜRÜME MESAFESİNDE BAKIMLI ARAKAT GENİŞ 3+1 DAİRE",
+   "Area": 170,
+   "NumberOfRooms": "3+1",
+   "Price": "1.300 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nAydınlık"
+ },
+ {
+   "Type": "Daire",
+   "Title": "BOSNA HERSEK MH SÜMEYYE CD YANI KİRALIK 3+1 ARAKAT BAKIMLI DAİRE",
+   "Area": 130,
+   "NumberOfRooms": "3+1",
+   "Price": "900 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "BİLGE'DEN AKSİNNE EVLERİNDE ARA KAT BATI CEPHE SIFIR 2+1 1200₺",
+   "Area": 110,
+   "NumberOfRooms": "2+1",
+   "Price": "1.200 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Meram\nZafer"
+ },
+ {
+   "Type": "Daire",
+   "Title": "SANCAK NOVALAND AVM KARŞISI İSTİKBAL SİT. KİRALIK 3+1 DAİRE",
+   "Area": 150,
+   "NumberOfRooms": "3+1",
+   "Price": "1.200 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nMerkez"
+ },
+ {
+   "Type": "Daire",
+   "Title": "BEYTEPE EMLAK'TAN KİRALIK 3+1 DAİRE İYİ KONUM",
+   "Area": 145,
+   "NumberOfRooms": "3+1",
+   "Price": "800 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Meram\nKöyler"
+ },
+ {
+   "Type": "Daire",
+   "Title": "Komisyonsuz, yalıtımlı, kaloriferli 2+1",
+   "Area": 125,
+   "NumberOfRooms": "2+1",
+   "Price": "800 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "BOSNA HERSEK MH MESAJ CD ÜZERİ KİRALIK BAKIMLI KAÇMAZ DAİRE",
+   "Area": 130,
+   "NumberOfRooms": "3+1",
+   "Price": "900 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "ŞEFİKCAN BÖLGESİNDE KİRALIK 3+1 GENİŞ DAİRE İSTEYENLER !!",
+   "Area": 175,
+   "NumberOfRooms": "3+1",
+   "Price": "1.850 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nHocacihan"
+ },
+ {
+   "Type": "Daire",
+   "Title": "IŞIKLARDA KİRALIK 4+1 KOMBİLİ DAİRE",
+   "Area": 160,
+   "NumberOfRooms": "4+1",
+   "Price": "900 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nFatih"
+ },
+ {
+   "Type": "Daire",
+   "Title": "KARDEŞLER EMLAKTAN 2+1 YOL ÜZERİ GÜNEY CEPHE KİRALIK DAİRE",
+   "Area": 130,
+   "NumberOfRooms": "2+1",
+   "Price": "950 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "SAHİBİNDEN KİRALIK ARAKAT YALITIMLI BİREYSEL KOMBİLİ DAİRE",
+   "Area": 145,
+   "NumberOfRooms": "3+1",
+   "Price": "1.100 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nAydınlık"
+ },
+ {
+   "Type": "Daire",
+   "Title": "3+1 ARA KAT KİRALIK DAİRE",
+   "Area": 120,
+   "NumberOfRooms": "3+1",
+   "Price": "900 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Selçuklu\nBosna"
+ },
+ {
+   "Type": "Daire",
+   "Title": "MERAM YAKA'DA KİRALIK 2+1 DAİRE",
+   "Area": 110,
+   "NumberOfRooms": "2+1",
+   "Price": "1.000 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Meram"
+ },
+ {
+   "Type": "Daire",
+   "Title": "Parlak Gayrimenkul'den Köyceğiz'de 3+1 Kiralık Daire",
+   "Area": 140,
+   "NumberOfRooms": "3+1",
+   "Price": "1.200 TL",
+   "ReleaseDate": "18 Kasım 2020",
+   "District": "Meram"
+ }
+]
